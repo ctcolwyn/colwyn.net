@@ -20,6 +20,10 @@
                         <h1>{{ .Title }}</h1>
                     </div>
                 </div>
+                <div id="TOC">
+                    <div id="toc-title">Table of Contents</div>
+                    {{ .TableOfContents }}
+                </div>
                 {{ end }}
             {{- block "main" . }}{{- end }}
             </div>
