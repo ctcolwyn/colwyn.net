@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/css/style.css">
+        <!-- at some point TODO this with things like google analytics or w/e -->
+    </head>
+    <body>
+        <div class="container">
+            <div class="sidebar">
+                <a class="logo" href="/" title="Home page">
+                    <img alt="Colwyn.net site logo (a capital C in gothic font)" src="/img/logo.svg" /></img>
+                </a>
+                <a class="sidebar-link" href="/e/this">This</a>
+                <a class="sidebar-link" href="/e/me">Me</a>
+            </div>
+            <div id="content">
+                {{ if not .Params.homepage }}
+                <div class="full-header">
+                    <div class="title-holder">
+                        <h1>{{ .Title }}</h1>
+                    </div>
+                </div>
+                {{ end }}
+            {{- block "main" . }}{{- end }}
+            </div>
+        </div>
+    </body>
+</html>

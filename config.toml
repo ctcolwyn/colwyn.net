@@ -1,0 +1,7 @@
+baseURL = "https://colwyn.net/"
+languageCode = "en-us"
+title = "Colwyn.net"
+theme = "colwyn"
+
+[markup.goldmark.renderer]
+unsafe= true

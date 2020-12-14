@@ -1,0 +1,283 @@
+/*********/
+/* FONTS */
+/*********/
+
+@font-face {
+    font-family: "Source Serif Pro";
+    src: url(/font/ssfp/SourceSerifPro-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Source Serif Pro";
+    src: url(/font/ssfp/SourceSerifPro-Italic.ttf);
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Source Serif Pro";
+    src: url(/font/ssfp/SourceSerifPro-Bold.ttf);
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Source Serif Pro";
+    src: url(/font/ssfp/SourceSerifPro-BoldItalic.ttf);
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(/font/ibmp/IBMPlexMono-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(/font/ibmp/IBMPlexMono-Italic.ttf);
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(/font/ibmp/IBMPlexMono-Bold.ttf);
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: url(/font/ibmp/IBMPlexMono-BoldItalic.ttf);
+    font-style: italic;
+    font-weight: bold;
+}
+
+/***********/
+/* GENERAL */
+/***********/
+
+html {
+    font-family: "Source Serif Pro", "Baskerville", "Times New Roman", "Times", serif;
+}
+
+pre {
+    font-family: "IBMPlexMono";
+}
+
+p:first-of-type {
+    font-variant: small-caps;
+}
+
+a:link {
+    color: #333;
+}
+
+a:visited {
+    color: #666;
+}
+
+.force-normal-text {
+    font-variant: normal;
+}
+
+ul li {
+    margin: 0 0 7px 0;
+    line-height: 1.55;
+}
+
+@media (min-width: 650px) {
+    ol {
+      margin: 15px 0 1.5em;
+      padding: 0;
+      counter-reset: item;
+    }
+    
+    ol > li {
+      margin: 0 0 10px 0;
+      padding: 0 0 7px 2em;
+      line-height: 1.55;
+      text-indent: -1.6em;
+      list-style-type: none;
+      counter-increment: item;
+    }
+    
+    ol > li:before {
+      font-family: "IBMPlexMono";
+      display: inline-block;
+      width: 1em;
+      padding-right: 0.5em;
+      text-align: right;
+      content: counter(item) ".";
+    }
+}
+
+/***********/
+/* SIDEBAR */
+/***********/
+
+.logo,
+.logo img {
+    height: 120px;
+    width: 120px;
+}
+
+.sidebar {
+    float: left;
+    height: 100%;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#content {
+    margin-top: 17px;
+    margin-left: 160px;
+    margin-right: 22px;
+    margin-bottom: 70px;
+    text-align: justify;
+    hyphens: auto;
+}
+
+.sidebar-link {
+    margin-left: 12px;
+    display: block;
+    font-variant: small-caps;
+    text-decoration: none;
+}
+
+/**********/
+/* MOBILE */
+/**********/
+
+@media only screen and (max-width: 649px) {
+    .sidebar-link {
+        display: none;
+    }
+    .sidebar {
+        position: static;
+    }
+    #content {
+        margin-left: 22px !important;
+    }
+}
+
+/**************/
+/* PARAGRAPHS */
+/**************/
+
+.container {
+    max-width: 1120px;
+    margin: auto;
+}
+
+p {
+	margin: 0;
+    line-height: 1.55;
+}
+
+p + p {
+	text-indent: 2.5em;
+}
+
+/****************/
+/* FRONT MATTER */
+/****************/
+.title-holder {
+    text-align: center;
+    font-size: 15pt;
+    font-variant: small-caps;
+}
+
+/* TODO: Implement proper table of contents */
+
+/************/
+/* HEADINGS */
+/************/
+
+h2 {
+    font-variant: small-caps;
+    text-align: right;
+    width: 100%;
+    border-bottom: 1px solid black;
+    font-size: 19pt;
+}
+
+h3 {
+    font-variant: small-caps;
+    width: 100%;
+    border-bottom: 1px dotted #999;
+    font-size: 16pt;
+}
+
+h4 {
+    font-size: 13pt;
+}
+
+hr {
+    margin: 17px 0 14px;
+    border-top: 1px dotted black;
+}
+
+/***************/
+/* BLOCKQUOTES */
+/***************/
+
+.epigraph {
+	margin: 0.25em 1.25em 0;
+	font-size: 0.95em;
+	padding: 1em 1.25em;
+}
+
+.epigraph p:first-of-type {
+    font-variant: normal;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.epigraph p:first-of-type::before,
+.epigraph p:last-of-type::after {
+	display: block;
+	font-size: 2.5em;
+	color: #898989;
+}
+
+.epigraph p:first-of-type::before {
+	content: "\201C";
+}
+
+.epigraph p:last-of-type {
+    text-align: right;
+}
+
+.epigraph p:last-of-type::after {
+	content: "\201D";
+}
+
+/**************/
+/* PRE / CODE */
+/**************/
+
+pre {
+    border: 2px solid #999;
+    border-radius: 3px;
+    padding: 7px 15px 13px 10px;
+    color: #676767;
+}
+
+code {
+    border: 1px solid #a0a0a0;
+    font-size: 11pt;
+    padding: 1px 3px;
+}
+
+pre > code {
+    border: none;
+    padding: 0;
+}
