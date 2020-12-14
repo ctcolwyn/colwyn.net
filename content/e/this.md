@@ -1,6 +1,5 @@
 ---
 title: "This Project & Website"
-url: "/e/this"
 date: 14 Dec 2020
 modified: 14 Dec 2020
 
