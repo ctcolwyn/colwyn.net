@@ -3,7 +3,6 @@
 ## Content Paths
 
 - `e` Essays
-- `t` Tag pages (TODO: Implement these)
 - `w` Web archives / locally hosted links
 
 ## To Do

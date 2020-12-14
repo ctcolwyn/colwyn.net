@@ -16,8 +16,24 @@
             <div id="content">
                 {{ if not .Params.homepage }}
                 <div class="full-header">
-                    <div class="title-holder">
-                        <h1>{{ .Title }}</h1>
+                        <div class="title-holder">
+                            <h1>{{ .Title }}</h1>
+                        </div>
+                    {{ if .Params.abstract }}
+                        <div class="abstract">
+                            {{ .Params.abstract }}
+                        </div>
+                    {{ end }}
+                    <div class="tag-holder">
+                        {{ $list := (.Params.tags) }}
+                        {{ $len := (len $list) }}
+                        {{ range $k, $v := $list }}
+                        <a href="/#{{ $v }}">{{ $v }}</a>{{ if not (eq (add $k 1) $len) }},{{ end }}
+                        {{ end }}
+                    </div>
+                    <!-- TODO: Add proper links to confidence tags and importance sections when applicable. -->
+                    <div class="metadata">
+                        {{ dateFormat "2 Jan 2006" .Date }} – {{ dateFormat "2 Jan 2006" .Params.modified }} <span class="spacer">•</span> {{ lower .Params.status }} <span class="spacer">•</span> certainty: {{ lower .Params.certainty }} <span class="spacer">•</span> importance: {{ lower .Params.importance }}
                     </div>
                 </div>
                 <div id="TOC">
@@ -26,6 +42,20 @@
                 </div>
                 {{ end }}
             {{- block "main" . }}{{- end }}
+            {{ if .Params.homepage }}
+                <div class="page-list">
+                    {{ range $t := .Site.Taxonomies.tags.Alphabetical }}
+                        <div class="tag-list">
+                            <div class="tag-header">{{ $t.Name }}</div>
+                            <ul>
+                                {{ range $t.Pages.ByDate }}
+                                <li><a href="{{ .Permalink}}">{{ .Title }}</a>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    {{ end }}
+                </div>
+            {{ end }}
             </div>
         </div>
     </body>

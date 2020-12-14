@@ -30,6 +30,33 @@
     font-weight: bold;
 }
 
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/font/ssap/SourceSansPro-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/font/ssap/SourceSansPro-Bold.ttf);
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/font/ssap/SourceSansPro-Italic.ttf);
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/font/ssap/SourceSansPro-BoldItalic.ttf);
+    font-style: italic;
+    font-weight: bold;
+}
 
 @font-face {
     font-family: "IBMPlexMono";
@@ -140,7 +167,7 @@ ul li {
         position: static;
     }
     #content {
-        margin-left: 22px !important;
+        margin-left: 22px;
     }
 }
 
@@ -165,10 +192,36 @@ p + p {
 /****************/
 /* FRONT MATTER */
 /****************/
+
 .title-holder {
     text-align: center;
     font-size: 15pt;
     font-variant: small-caps;
+}
+
+.abstract {
+    font-style: italic;
+    font-size: 11.5pt;
+    line-height: 1.55;
+}
+
+.tag-holder,
+.metadata {
+    font-style: italic;
+    font-size: 11pt;
+    line-height: 1.55;
+}
+
+.tag-holder {
+    margin-top: 10px;
+}
+
+.metadata {
+    margin-bottom: 5px;
+}
+
+span.spacer {
+    padding: 0 3px;
 }
 
 /************/
@@ -265,6 +318,7 @@ pre > code {
 /*******/
 
 #TOC {
+    font-family: "Source Sans Pro", Helvetica, "Trebuchet MS", sans-serif;
     float: left;
 	z-index: 11;
     font-size: 10pt;
@@ -274,6 +328,18 @@ pre > code {
     margin: 0 15px 0 0;
     background: white;
     max-width: 300px;
+    text-align: left;
+}
+
+@media (max-width: 649px) {
+    #TOC {
+        float: none;
+        width: 100%;
+        padding: 0;
+        margin: 100px 0 0;
+        outline-offset: 10px;
+        max-width: 649px;
+    }
 }
 
 #toc-title {
@@ -291,7 +357,6 @@ pre > code {
     line-height: 12pt;
     margin: 14px 0 0 0;
     font-weight: bold;
-    font-variant: small-caps;
 }
 
 #TOC ul li ul li {
@@ -299,8 +364,8 @@ pre > code {
     list-style: initial;
     margin: 0 0 0 13px;
     font-weight: normal;
-    font-variant: normal;
 }
+
 #TOC a {
     text-decoration: none;
 }
