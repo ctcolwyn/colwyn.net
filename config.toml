@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Colwyn.net"
 theme = "colwyn"
 
-uglyURLs = true
-
 [markup.goldmark.renderer]
 unsafe= true
 
