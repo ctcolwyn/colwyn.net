@@ -107,7 +107,7 @@ a:link {
 }
 
 a:visited {
-    color: #666;
+    color: #222;
 }
 
 .force-normal-text {
@@ -368,4 +368,52 @@ pre > code {
 
 #TOC a {
     text-decoration: none;
+}
+
+/*************/
+/* TAG LISTS */
+/*************/
+
+.page-list {
+    padding-top: 30px;
+}
+
+.page-list h5 {
+    margin: 0;
+}
+
+.page-list h5 a {
+    text-decoration: none;
+    color: black;
+}
+
+.tag-list {
+    vertical-align: top;
+    display: inline-block;
+    width: 33%;
+}
+
+.tag-header {
+    font-variant: small-caps;
+    font-size: 19pt;
+    font-weight: bold;
+    padding-top: 14px;
+}
+
+.tag-list ul {
+    margin-top: 0;
+}
+
+.tag-list ul li {
+    font-size: 13pt;
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 649px) {
+    .tag-list {
+        display: static;
+        width: 100%;
+        margin-bottom: 30px;
+    }
 }

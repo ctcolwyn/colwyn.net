@@ -36,17 +36,21 @@
                         {{ dateFormat "2 Jan 2006" .Date }} – {{ dateFormat "2 Jan 2006" .Params.modified }} <span class="spacer">•</span> {{ lower .Params.status }} <span class="spacer">•</span> certainty: {{ lower .Params.certainty }} <span class="spacer">•</span> importance: {{ lower .Params.importance }}
                     </div>
                 </div>
+                {{ if .Params.notoc }}
+                <hr style="visibility:hidden">
+                {{ else }}
                 <div id="TOC">
                     <div id="toc-title">Table of Contents</div>
                     {{ .TableOfContents }}
                 </div>
+                {{ end }}
                 {{ end }}
             {{- block "main" . }}{{- end }}
             {{ if .Params.homepage }}
                 <div class="page-list">
                     {{ range $t := .Site.Taxonomies.tags.Alphabetical }}
                         <div class="tag-list">
-                            <div class="tag-header">{{ $t.Name }}</div>
+                            <h5 id="{{ $t.Name }}" class="tag-header"><a href="#{{$t.Name}}">{{ $t.Name }}</a></h5>
                             <ul>
                                 {{ range $t.Pages.ByDate }}
                                 <li><a href="{{ .Permalink}}">{{ .Title }}</a>
