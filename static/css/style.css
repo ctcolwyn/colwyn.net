@@ -98,7 +98,7 @@ pre {
     font-family: "IBMPlexMono";
 }
 
-p:first-of-type {
+p:first-of-type::first-line {
     font-variant: small-caps;
 }
 
@@ -217,7 +217,11 @@ p + p {
 }
 
 .metadata {
-    margin-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+span.meta-tag {
+    font-style: normal;
 }
 
 span.spacer {
@@ -416,4 +420,12 @@ pre > code {
         width: 100%;
         margin-bottom: 30px;
     }
+}
+
+/************/
+/* ENDNOTES */
+/************/
+
+li[role="doc-endnote"] p:first-of-type::first-line {
+    font-variant: normal;
 }
