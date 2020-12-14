@@ -2,7 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="/css/style.css">
-        <title>{{ .Title }} • Colwyn.net</title>
+        <title>{{ .Title }} · Colwyn.net</title>
         <!-- at some point TODO this with things like google analytics or w/e -->
     </head>
     <body>
@@ -34,7 +34,7 @@
                     </div>
                     <!-- TODO: Add proper links to confidence tags and importance sections when applicable. -->
                     <div class="metadata">
-                        {{ dateFormat "2 Jan 2006" .Date }} – {{ dateFormat "2 Jan 2006" .Params.modified }} <span class="spacer">•</span> {{ lower .Params.status }} <span class="spacer">•</span> certainty: {{ lower .Params.certainty }} <span class="spacer">•</span> importance: {{ lower .Params.importance }}
+                        {{ dateFormat "2 Jan 2006" .Date }} – {{ dateFormat "2 Jan 2006" .Params.modified }} <span class="spacer">·</span> {{ lower .Params.status }} <span class="spacer">·</span> certainty: {{ lower .Params.certainty }} <span class="spacer">·</span> importance: {{ lower .Params.importance }}
                     </div>
                 </div>
                 {{ if .Params.notoc }}

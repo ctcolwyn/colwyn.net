@@ -11,3 +11,9 @@ unsafe= true
     endLevel = 6
     ordered = false
     startLevel = 2
+
+[deployment]
+  [[deployment.targets]]
+    name = "s3"
+    URL = "s3://colwyn.net?region=us-east-1"
+    cloudFrontDistributionID = "E1SXWX3D0SFA3P"
