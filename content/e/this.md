@@ -1,5 +1,6 @@
 ---
 title: "This Project & Website"
+url: "/e/this"
 date: 14 Dec 2020
 modified: 14 Dec 2020
 
@@ -10,7 +11,7 @@ importance: 5
 abstract: This project is intended to be a long-now repository of writings on various topics of personal interest, but I am reticent to go into too much detail before it is populated with much. At the moment this site is a sort of placeholder.
 ---
 
-At time of writing, this site isn't much to look at. It isn't responsible to summarize a project before it is truly underway. It's a trap of overprediction: one finds it far too easy to be satisfied by the mere _thought_ of taking action and then they fail to follow through. As a result there is no mention here of aspects of the project which don't exist yet—not eveen topic matter. Through and through, you are reading the thoughts of an author confined to the present moment.
+At time of writing, this site isn't much to look at. It isn't responsible to summarize a project before it is truly underway. It's a trap of overprediction: one finds it far too easy to be satisfied by the mere _thought_ of taking action and then they fail to follow through. As a result there is no mention here of aspects of the project which don't exist yet—not even topic matter. Through and through, you are reading the thoughts of an author confined to the present moment.
 
 Fitting, then, that a great deal of the need for this site comes from a [long now](https://longnow.org/)-oriented manner of thinking. I tire of reading books and then forgetting about them, etc. etc. and I found myself unmotivated to write due to the difficulty of deploying such writing for an audience, or even for myself, in any remotely robust way. Thus a reversal of the normal advice to "just write" was in order and I set up the infrastructure first.
 
