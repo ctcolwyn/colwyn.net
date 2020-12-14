@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Essays"
 date: 13 Dec 2020
 modified: 14 Dec 2020
 draft: false
