@@ -8,6 +8,7 @@
 ## To Do
 (Beyond the obvious...)
 
+- Hosting, CDN, CI/CD
 - Implement easy Wikipedia lookups via `(!Wikipedia)` or similar
 - Look into Gwern's "Resorter" for importance tags
 
