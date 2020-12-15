@@ -82,3 +82,7 @@ Colwyn.net is served by [Amazon S3](https://aws.amazon.com/s3/) through [Amazon 
 The static site generator is stock [Hugo](https://gohugo.io) v0.79.0 (at time of writing). I take advantage of very few features and my use case is so dead-simple compared to more visually & structurally complex projects, so any option would've sufficed, but professionally I have preferred to stay in the Go ecosystem whenever possible, so here we are. The main use case I wanted to solve was management of the intended front page's tag lists, which was achieved quite easily in half an hour.
 
 At the moment, the site is just over 5MB in size including all assets. It's likely the growth rate will be quite low.
+
+### Open Source, Open Domain
+
+This website is licensed under the [Creative Commons CC-0 License](https://creativecommons.org/share-your-work/public-domain/cc0/) and is of the public domain. The source is [available on GitHub](https://github.com/ctcolwyn/colwyn.net).
