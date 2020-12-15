@@ -3,12 +3,13 @@
 ## Content Paths
 
 - `e` Essays
+- `p` PDFs (or papers, etc.)
 - `w` Web archives / locally hosted links
+
 
 ## To Do
 (Beyond the obvious...)
 
-- Hosting, CDN, CI/CD
 - Implement easy Wikipedia lookups via `(!Wikipedia)` or similar
 - Look into Gwern's "Resorter" for importance tags
 
