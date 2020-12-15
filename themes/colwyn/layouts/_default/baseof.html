@@ -45,7 +45,8 @@
                     </div>
                     <!-- TODO: Add proper links to confidence tags and importance sections when applicable. -->
                     <div class="metadata">
-                        {{ dateFormat "2 Jan 2006" .Date }} – {{ dateFormat "2 Jan 2006" .Params.modified }} <span class="spacer">·</span> {{ lower .Params.status }} <span class="spacer">·</span> <span class="meta-tag"><a href="/e/this#confidence-tags">certainty</a>:</span> {{ lower .Params.certainty }} <span class="spacer">·</span> <span class="meta-tag"><a href="/e/this#importance-tags">importance</a>:</span> {{ lower .Params.importance }}
+                        {{ if .Date }}
+                        {{ dateFormat "2 Jan 2006" .Date }} – {{ dateFormat "2 Jan 2006" .Params.modified }} <span class="spacer">·</span>{{ end }} {{ lower .Params.status }} <span class="spacer">·</span> <span class="meta-tag"><a href="/e/this#confidence-tags">certainty</a>:</span> {{ lower .Params.certainty }} <span class="spacer">·</span> <span class="meta-tag"><a href="/e/this#importance-tags">importance</a>:</span> {{ lower .Params.importance }}
                     </div>
                 </div>
                 {{ if .Params.notoc }}
