@@ -11,6 +11,4 @@ homepage: true
 
 This is the website of <span class="force-normal-text">**C.T. Colwyn**. I am a writer and programmer, and this website is designed to house my digital presence.</span>
 
-The website is aesthetically minimal, and lacking in content as of now. It takes heavy design inspiration from [Gwern's website](https://gwern.net/), partly because his inspiring corpus best speaks for itself in such a setting, and partly because it is akin to what I would likely design myself in a vacuum. Despite the aesthetic similarity, I only borrowed around 5% of Gwern's CSS (but that's neither here nor there).
-
-Below, there is a great deal of blank space which will eventually be a rather more proper table of contents.
+The website is aesthetically minimal, and also minimal in content as of now. At the moment I am in the process of translating a sizable collection of book reviews over to this site, which is why you only see one link below. In the future I anticipate many more writings, but for now this isn't all that much to look at. That's okay—all things in their time. If you're here, you're early.
