@@ -22,12 +22,23 @@ Regardless, I can't comment on what _ought_ to be; all I can say is that I made 
 
 ## 5 Stars
 
+### _Unsong_, Scott Alexander (2017)
+
+Scott Alexander of [Slate Star Codex](https://slatestarcodex.com) fame's first bookish web serial hits home with his trademark cleverness and rationalist puzzling. He expertly weaves some of his [most loved posts](https://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/) into a story that begins in a cubicle and ends in a literal conversation with God.
+
+I struggle to describe its effect on me as it was something of a meta-effect: on its face, I was overjoyed with the fun of placebomancy, and the antics of the Archangel Uriel at the U.N.; deeper, I draw great inspiration from how Scott writes and hang on each word as I hope to better incorporate his style into my own. The story is rough in ways (Scott has shown interest in revising it over the last few years, although no such revision exists as of 16 Dec 2020) but this is forgivable because it is currently structured as a web serial and makes no claim of polish.
+
+I see no need for this revision; it is an extremely playful story with meaning and vision.
+
 ### _You're Never Weird on the Internet_, Felicia Day (2015)
 Stunning love letter to the young internet from the early oughts to the supremacy of World of Warcraft. Day paints a detailed picture of what it was like growing up an internet kid, complete with homeschooling, awkward eventual meetups with long-held internet friends, and rather more uniquely in her case: getting a job inside World of Warcraft and turning it into an authentic [miniseries-turned-cult-classic](https://en.wikipedia.org/wiki/The_Guild_(web_series)).
 
 Perhaps I relate to this book rather more strongly, because its central "be-yourself" thesis is specifically geared toward people like me whose entire young life took place on the internet. After reading this book for the first time, I recall feeling that it perfectly encapsulates the oddities of online social life in the early days before social media dominated it, the ideal that genuine self-expression is your friend even if doing so sequesters you into niche communities, and video-game-as-art-form.
 
 I have this book to thank for my mindset that embracing the internet is the correct choice for some, and ought to be one in one's own preferred way. I suspect that Day is probably sympathetic to the view I hold on the internet over time, which is something like: it's rather less pleasant than it was in the early days, forums were better than social media, communities were smaller and more personal and less algorithmic and etc. Day's writing is one of the best glimpses into why I loved those years of my life so much. Five stars, a must-read for anyone—and especially for young people who never experienced the internet as Day describes it.
+
+### _The Great Gatsby_, F. Scott Fitzgerald (1925)
+Fitzgerald's legendary book needs no introduction, but you can count me among its stronger admirers. Fitzgerald's tale of extravagant wealth, unrequited love and social class does a lot of leg work in a short time. It deserves the acclaim it gets amongst high school English teachers. Of particular note is the final sentence of the book, which unfortunately escaped mention in my personal high school education, and Tom Buchanan's comical misinterpretation of the only book he has read recently when we meet him—himself a character in a book that is often misinterpreted!
 
 ### _Waking Up_, Sam Harris (2014)
 The best modern entry point into meditation, mindfulness and consciousness. I meditate often, and am often asked why, what the benefits are, etc. and if they aren't immediately receptive to my answer I will gift them this book. (I should mention that this seems mostly fruitless as the recommendation is dead, and we have killed it, but I enjoy the practice nonetheless: _"if I could just influence one person...")_
@@ -49,15 +60,29 @@ One need not be financially irresponsible to benefit from this book, which is wh
 
 ## 4 Stars
 
+### _Better Never to Have Been_, David Benatar (2006)
+A fascinating novelty to broadly agree with a book as irreverent about... well, _existing_ as this. Benatar speaks candidly about his belief that it is immoral to have children. He believes it is highly likely that not existing is preferable to existing on account of the presence of pain in one case and the absence of pain in another case, and that it is a guarantee that life's pain outweighs life's pleasures.
+
+Benatar's axiomatic asymmetry, one of about three cruxes of his argument, is interesting: he argues that if one exists, then they will experience pleasure, which is good, and pain, which is bad; if one doesn't exist, then they will experience no pain, which is good, and no pleasure, which is not bad because there is no one to be deprived of the pleasure. Benatar spends most of the book working to convince the reader that this asymmetry holds. I believe he does a good enough job to challenge anyone serious about their personal ethics to justify their desire to have children more seriously, and to decide whether it is agreeable to create new life.
+
+Benatar's acknowledgement of the futility of the book is a bit crushing in the beginning. He knows he has likely influenced only a tiny number of people to change their behavior, and it likely benefits the text to show self-awareness about it, but it likely also primes the reader to disagree with the book.
+
+The book makes up for this by stating its premise literally immediately on the first page. It hits harder than any other philosophy notwithstanding Nietzsche and would be worth a read for writing style alone. It happens that Benatar is onto something, too.
+
+### _Lying_, Sam Harris (2011)
+A brief read that takes less than an hour via audiobook, but a worthy use of such time. Harris summarizes the greatest arguments against lying in nearly any situation, and asks the reader to consider his position earnestly. The book is high-impact-per-minute and is an excellent indictment of common casual dishonesty. I wish it were fleshed out into a complete work.
+
+### _The Signal and the Noise_, Nate Silver (2012)
+I'm writing this review in December 2020, just after the entirety of Twitter forgot how statistics works. Silver is no Oracle of Delphi, but he's still probably the best accessible voice to introduce a reader to statistics. His book is stronger when it talks about poker because he can better distill the examples.
+
+He writes prior to the mainstream acknowledgement of the Replication Crisis, which would've been a fascinating comment, but I can't fault him for (again) not being an oracle. The book has achieved must-read status in many college curricula, including my own, and as such it has an academic taste for me; I encourage the prospective reader to enjoy it anyway.
+
 ### _Permanent Record_, Edward Snowden (2019)
 A good read. Snowden's story is fascinating and needs no introduction in the fable of the modern internet. Depending on who you ask, he is a legend or a traitor, etc., and the book is worth reading regardless.
 
 I have trouble fully believing the book, in part because Snowden has a strong incentive to paint himself positively and likely wants to independently of his incentives (ego), but mostly because of his inclusion of claiming he is epileptic, a long-disputed claim on account of no discernible medical history beyond when he stopped showing up to work and fled to Hong Kong. The main giveaway is that he apparently continued to drive, which no sane person would've done or been allowed to do after an epilepsy diagnosis. I am far from the first person to point this out (articles disputing his claim were written as early as 2016) and it remains the biggest hole in Snowden's story alongside his disputed claim that he worked undercover, overseas in Geneva for any length of time. Reading this book makes me more receptive to the truth of that claim, but not the epilepsy claim; I invite the reader to consider these two points for themselves.
 
 With that grain of salt sown, I otherwise recommend the book. With the benefit of time in exile, Snowden has become an outspoken privacy advocate and has had time to reflect on his decisions in 2013. His decisions are fascinating, and it doesn't really matter all that much which details are false; the overarching story is obviously true and tremendously interesting.
-
-### _Lying_, Sam Harris (2011)
-A brief read that takes less than an hour via audiobook, but a worthy use of such time. Harris summarizes the greatest arguments against lying in nearly any situation, and asks the reader to consider his position earnestly. The book is high-impact-per-minute and is an excellent indictment of common casual dishonesty. I wish it were fleshed out into a complete work.
 
 ### _Elon Musk_, Ashlee Vance (2015)
 A challenging read that likely read better in 2015; Musk is portrayed as eccentric, but by halfway through a long-form biography of him I adjusted to his idiosyncrasies so much that I barely noticed. The way he is quoted is hard to map onto the way he speaks in real life. At the time, SpaceX had not yet shown the now-unambiguously impressive reusability of the Falcon 9 rocket, and Tesla hadn't yet released the Model 3. It was a different world and Musk was much less well-known than he is today.
@@ -82,6 +107,13 @@ So it's frustrating to read such a long and detailed book that makes no mention 
 Intelligent articulation of the (apparent) most defensible form of moral realism. Within, Harris argues in [Lincoln-Douglas style](https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debate_format) that the proper value with which to make moral/ethical judgments is "the well-being of conscious creatures" and that all other values reduce to this value, i.e. even those with twisted beliefs such as ideological terrorists, fire-and-brimstone preachers, etc. believe their thoughts and actions improve human well-being on net.
 
 Harris further argues that such concern with well-being can be thought of objectively, because, for one, well-being can mostly be measured materially and almost all humans naturally possess a concern for others. Thus he crosses the [is-ought gap](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem). I believe Harris fails to provide rigorous justification for this view, although I agree with him on a pragmatic level that substantially all human value-models can probably reduce to the well-being of conscious creatures. The prose of the book is precise but forgettable, and I could take or leave this book.
+
+### _The Power of Now_, Eckhart Tolle (1997)
+Here I must distinguish between books impressive in their time versus today. In my judgment, Tolle wrote an impressive proto-foray into mindfulness before western vocabulary about these largely-eastern ideas was well-developed. Are we to take Tolle at face value when he explains he had a Buddha-esque enlightenment revelation at random in a park somewhere? Well, I'd be skeptical, but Tolle has walked the walk for much of his life since.
+
+Whether I can recommend this read now is another question. I arrive at a good impression of the book, but although it discusses many of the same ideas as _Waking Up_ by Harris, it hardly follows through on them as well. Tolle's language is clunky, written more for those predisposed than for newcomers, and his Q/A format falls flat with more complex questions: "why no, Tolle-san, I was _not_ just about to ask you this detailed paragraph-question in response to your ramblings about God, and if I was then it definitely wouldn't begin with the words 'I understand!'"
+
+I think Tolle used language appropriate for the time, when internet effects couldn't yet disseminate his ideas broadly enough for him to be direct about them and be taken seriously; much of his language is more religious than it needs to be; he is clearly writing to a different audience in a different world than the one we have now; his ideas require some translation from this structure into a workable one; three stars.
 
 ### _The War on Normal People_, Andrew Yang (2018)
 
