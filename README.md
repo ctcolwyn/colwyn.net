@@ -12,6 +12,7 @@
 
 - Implement easy Wikipedia lookups via `(!Wikipedia)` or similar
 - Look into Gwern's "Resorter" for importance tags
+- Implement linkchecker and on-domain hosting of things like referenced PDFs
 
 ## Edge Cases
 
