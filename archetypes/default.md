@@ -8,6 +8,7 @@ certainty: {certain | highly likely | likely | possible | unlikely | remote | im
 importance: { 0 - 10 }
 
 abstract: Lorem ipsum dolor sit and stuff.
+
 tags:
     - tag1
     - tag2
