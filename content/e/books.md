@@ -24,14 +24,14 @@ Regardless, I can't comment on what _ought_ to be; all I can say is that I made 
 
 ## 4 Stars
 
-### _Elon Musk_, Ashlee Vance
+### _Elon Musk_, Ashlee Vance (2015)
 A challenging read that likely read better in 2015; Musk is portrayed as eccentric, but by halfway through a long-form biography of him I adjusted to his idiosyncrasies so much that I barely noticed. The way he is quoted is hard to map onto the way he speaks in real life. At the time, SpaceX had not yet shown the now-unambiguously impressive reusability of the Falcon 9 rocket, and Tesla hadn't yet released the Model 3. It was a different world and Musk was much less well-known than he is today.
 
 A common criticism of biographies of wealthy people is such folks' choices of writer. This one is actually quite good. Vance had good insight, good neutral tone, and allowed Musk to be on full, unfiltered display in a manner that I found intelligent and convincing, especially during discussions of his personal problems, exes and children. Four stars, but hard to recommend to new readers. He ought to commission one (or write his own) in the next, say, two decades.
 
 ## 3 Stars
 
-### _Modern Romance_, Aziz Ansari & Eric Klinenberg
+### _Modern Romance_, Aziz Ansari & Eric Klinenberg (2015)
 The earliest intelligent study of online dating in a post-Tinder world, Ansari brilliantly collaborates with _an actual sociologist_ to write a book about sociology—unheard of!
 
 I enjoyed the book's honest examination of hookup culture as enabled by Tinder and its competitors. The book is actually not particularly kind to (or optimistic about) its primary subject company, instead framing swiping left and right as an inevitability: it offers such ease of use compared to lengthy profiles and manual searching that there's no wonder it has since totally taken over the world.
@@ -40,7 +40,7 @@ Although I commend the authors for being among the first to write an accessible 
 
 ## 2 Stars
 
-### _Steve Jobs_, Walter Isaacson
+### _Steve Jobs_, Walter Isaacson (2011)
 A long, frustrated attempt at properly explaining a short-tempered genius. Isaacson was the wrong choice to write this book, which is a shame because he received the most privileged access to Jobs during his life. Isaacson does not understand or well-explain the technical aspects of Jobs's accomplishments, nor did I walk away from the book feeling like it adequately reflected the uniqueness of what he built. One would be better off watching Jobs's recorded talks and interviews through the decades, or picking passages out of this book with the guidance of one who has already read it and could thus help one avoid the bloat. Two stars.
 
 ## 1 Star
