@@ -20,6 +20,23 @@ _(These things are totally assorted and are the most ephemeral. I mostly put thi
 - The principle that to create good products you must imagine what you yourself want that does not yet exist.
 - From my Sam Harris book review: "The recommendation is dead, and we have killed it"
 
+## How I Am to Work
+
+Various thoughts about _Deep Work_ by Cal Newport. Should go through highlights and distill them.
+
+At the least:
+- Need to reconsider how the work day is structured. _In lieu of having a trained, available product manager, I must manage my own backlog with just as much care and attention._ Consider, for instance, the situation on 16 Dec 2020, at which time I had five tickets groomed and ready for work. Two of them related to each other in a manner that would've been invisible without proper attention to the backlog, so it made sense to tackle them in parallel. This is the sort of high-level optimization that is possible with a decent backlog.
+- Thus it likely makes sense to schedule specific time for working on the backlog in addition to doing development work. This is chiefly my responsibility, as (a) my immediate colleague is doing one large project for the foreseeable future, and (b) I cannot expect to get meaningful time from my product manager at the moment.
+
+Related to the context surrounding work:
+- I ought to implement an end-of-work ritual, most likely written and formalized, in which I go over to-dos and upcoming events, capture everything outstanding in drafts etc., and then conclude the day. This is the only way to guarantee a proper context-switch from work to home.
+- I ought to heavily curb notifications and distractions. There are a few levels of potential rigor here, ranging from doing Pomodoros and allowing for occasional checks to putting the phone on DND for the entire work day sans lunch. In any case, there ought to be no notifications allowed on the computer itself except for calendar events, and texts/non-work Slack messages ought not interrupt me so much. Email should likely be altogether ignored or reduced to perhaps once a day. I have begun to use the Clockwise extension (which enough others at the company use in order for it to be respected) to try to assert a proper amount of focus time, as well. This focus time should involve some ramp-up and be respected through proper preparation such as backlogging, scoping, etc.
+
+To achieve this, I must necessarily standardize my task management. At the moment the only system in use is Taskwarrior CLI. Email accounts are all over the place. Confusion looms and must be curbed. To that end:
+1. Clean out password manager of bloat;
+2. Map out remaining accounts with respect to required & prudent document & photo storage, contacts, calendars, and email addresses necessary to manage; and
+3. Coalesce these requirements back into as manageable an apparatus as possible.
+
 ## The Inherently Skeptical Eye
 
 _(Not going to try too hard to flesh this one out on this page, as it will definitely be an essay topic soon.)_
