@@ -5,5 +5,5 @@
 hugo && git add . && git commit -m '$1' && git push && \
 hugo deploy
 
-echo '\n\n'
-linkchecker 'https://colwyn.net'
+echo '\n\nLink checker output below, if any. If not, done!'
+muffet 'https://colwyn.net'
