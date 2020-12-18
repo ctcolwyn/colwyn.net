@@ -110,6 +110,16 @@ a:visited {
     color: #222;
 }
 
+.sidebar a:hover {
+    color: #888;
+}
+
+#content p a:hover,
+#content li a:hover {
+    color: #555;
+    background: #DEDEDE;
+}
+
 .force-normal-text {
     font-variant: normal;
 }
