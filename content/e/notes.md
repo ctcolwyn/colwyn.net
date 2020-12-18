@@ -33,9 +33,15 @@ Related to the context surrounding work:
 - I ought to heavily curb notifications and distractions. There are a few levels of potential rigor here, ranging from doing Pomodoros and allowing for occasional checks to putting the phone on DND for the entire work day sans lunch. In any case, there ought to be no notifications allowed on the computer itself except for calendar events, and texts/non-work Slack messages ought not interrupt me so much. Email should likely be altogether ignored or reduced to perhaps once a day. I have begun to use the Clockwise extension (which enough others at the company use in order for it to be respected) to try to assert a proper amount of focus time, as well. This focus time should involve some ramp-up and be respected through proper preparation such as backlogging, scoping, etc.
 
 To achieve this, I must necessarily standardize my task management. At the moment the only system in use is Taskwarrior CLI. Email accounts are all over the place. Confusion looms and must be curbed. To that end:
-1. Clean out password manager of bloat;
-2. Map out remaining accounts with respect to required & prudent document & photo storage, contacts, calendars, and email addresses necessary to manage; and
-3. Coalesce these requirements back into as manageable an apparatus as possible.
+1. ~~Clean out password manager of bloat~~; _(completed)_
+2. ~~Map out remaining accounts with respect to required & prudent document & photo storage, contacts, calendars, and email addresses necessary to manage~~; _(completed)_ and
+3. ~~Coalesce these requirements back into as manageable an apparatus as possible.~~ _(completed)_
+
+I completed these tasks within a few hours of setting them and have established a decent flow-of-information paradigm for myself. As of 17 Dec 2020 I must still properly consider the following:
+
+1. Constructing the proper end-of-work ritual;
+2. Formalizing a proper notifications policy during work hours and on work devices; and
+3. How to approach scheduling (blocking off?) time for backlogging and other things tangential to active development work.
 
 ## The Inherently Skeptical Eye
 
