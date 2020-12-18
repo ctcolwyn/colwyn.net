@@ -83,6 +83,13 @@ The static site generator is stock [Hugo](https://gohugo.io) v0.79.0 (at time of
 
 At the moment, the site is just over 5MB in size including all assets. It's likely the growth rate will be quite low.
 
+### New Ground
+
+In the future, it's likely I'll implement the following:
+
+- balanced brackets & quotes checks, and other general markdown linting, spellchecking, etc.
+- a general pre-publication checklist of some sort, most likely a la [Gwern's](https://www.gwern.net/About#writing-checklist)
+
 ### Open Source, Open Domain
 
 This website is licensed under the [Creative Commons CC-0 License](https://creativecommons.org/share-your-work/public-domain/cc0/) and is of the public domain. The source is [available on GitHub](https://github.com/ctcolwyn/colwyn.net).

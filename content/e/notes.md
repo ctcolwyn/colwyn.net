@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 date: 16 Dec 2020
-modified: 16 Dec 2020
+modified: 17 Dec 2020
 
 status: ongoing
 certainty: possible
@@ -19,12 +19,11 @@ _(These things are totally assorted and are the most ephemeral. I mostly put thi
 - "Being foxed" once meant "being drunk"
 - The principle that to create good products you must imagine what you yourself want that does not yet exist.
 - From my Sam Harris book review: "The recommendation is dead, and we have killed it"
+- Me, below, in "How I Am to Work" section: "Also I should record my chosen productivity & archiving tools somewhere on Colwyn.net."
 
 ## How I Am to Work
 
-Various thoughts about _Deep Work_ by Cal Newport. Should go through highlights and distill them.
-
-At the least:
+Various thoughts about _Deep Work_ by Cal Newport. Should go through highlights and distill them. At the least:
 - Need to reconsider how the work day is structured. _In lieu of having a trained, available product manager, I must manage my own backlog with just as much care and attention._ Consider, for instance, the situation on 16 Dec 2020, at which time I had five tickets groomed and ready for work. Two of them related to each other in a manner that would've been invisible without proper attention to the backlog, so it made sense to tackle them in parallel. This is the sort of high-level optimization that is possible with a decent backlog.
 - Thus it likely makes sense to schedule specific time for working on the backlog in addition to doing development work. This is chiefly my responsibility, as (a) my immediate colleague is doing one large project for the foreseeable future, and (b) I cannot expect to get meaningful time from my product manager at the moment.
 
@@ -37,11 +36,46 @@ To achieve this, I must necessarily standardize my task management. At the momen
 2. ~~Map out remaining accounts with respect to required & prudent document & photo storage, contacts, calendars, and email addresses necessary to manage~~; _(completed)_ and
 3. ~~Coalesce these requirements back into as manageable an apparatus as possible.~~ _(completed)_
 
-I completed these tasks within a few hours of setting them and have established a decent flow-of-information paradigm for myself. As of 17 Dec 2020 I must still properly consider the following:
+I completed these tasks within a few hours of setting them and have cleaned up and simplified the assortment of software I use to run my life. As of 17 Dec 2020 I must still properly consider the following:
 
-1. Constructing the proper end-of-work ritual;
-2. Formalizing a proper notifications policy during work hours and on work devices; and
-3. How to approach scheduling (blocking off?) time for backlogging and other things tangential to active development work.
+1. ~~Constructing the proper end-of-work ritual~~ _(pondered & actions planned)_;
+2. ~~Formalizing a proper notifications policy during work hours and on work devices~~ _(pondered & actions planned)_; and
+3. ~~How to approach scheduling (blocking off?) time for backlogging and other things tangential to active development work~~ _(pondered & actions planned)_.
+
+Also I should record my chosen productivity & archiving tools somewhere on Colwyn.net.
+
+### Closing Time: The Saddest Time of the Day
+
+At the end of the day I should:
+
+1. Look at upcoming calendar events at least two days into the future and confirm I am prepared for them all; if not, perform minimum viable preparations or jot down tasks in taskwarrior to do so;
+2. Look at inboxes in Gmail and Slack and process (delete) anything (un)important;
+3. Translate all tasks captured in Drafts to their proper place, be it taskwarrior, this notes page, or elsewhere;
+4. Make some minimum degree of plan for the work to be performed tomorrow;
+5. Exeunt.
+
+I estimate this list may take 20-30 minutes to perform well.
+
+### Notification Wrangling
+
+Having thought about this for some days and observed my own behavior over months, I suspect there is no good reason to do anything except put the phone on do not disturb, face down, for the duration of focused time. Confining this practice to focused time is most likely an informal requirement of my job and my life—I can't suddenly miss all phone calls and expect my friendships to go about unchanged, and my coworkers would throw a fit if I didn't check Slack _at all_ unless I'm tagged—but I can get away with it sometimes.
+
+So call and text notifications on the laptop must go, all non-topical Slack channels must be muted, and the phone's do-not-disturb must be made impenetrable. I already disable most notifications so this isn't much of a change. Simple enough.
+
+### How to Block Off Focused Time
+
+Suppose I have a certain amount of time (typically 15 hours) throughout the week during which I must work deeply. What is the content of this work? Coding against a challenging starting point? Considering architectural changes & future RFCs? What is it exactly that I'm being paid to think so deeply about?
+
+The software industry thrives on this sort of ambiguity: many ideas, according to legend, come from such allocated-unallocated time. Idle hands are the entrepreneur (venture capitalist?)'s playthings. I've had decent success coming up with novel ideas in my specialty area in particular, so I ought to create conditions for more of that. Pragmatically, if I have these blocks of time generated for me by an algorithm, I could do one of several things to capture them (roughly arranged by most- to least-effort):
+
+1. Take at least some such time to peruse places such as the codebase or documentation without aim, trace execution paths based on curiosity, to find interesting things, make connections, suggest improvements etc.
+2. Keep a running list of deeper topics and tasks to ponder in the event of unallocated (by which I really mean _non-ticketed)_ focused time, and simply order the list and proceed through it
+3. Bifurcate the blocks, with the former half containing intentionally-idle pondering, and the latter half development work or other action based on the former; this would encourage proper reflection on existing work and deliberateness during the subsequent execution of tasks, in effect "harnessing boredom"
+4. Treat the focused time as relatively ordinary except for the lack of interruptions
+
+Upon finishing this list, it seems obvious that the list posited in (2) should exist, but otherwise I ought to use all these techniques at various times. The biggest takeaway is (2) because as of 17 Dec 2020 my task management paradigm does not allow for bigger ponderances—only one-off tasks, usually rote and urgent-but-not-important. Slotting deep work into a different taskwarrior tag, perhaps one filtered out in all my typical views and reserved for `tdeep` or something, would allow me to easily capture loftier items without cluttering my daily lists.
+
+And so it is done: such a tag is made!
 
 ## The Inherently Skeptical Eye
 
