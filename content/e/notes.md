@@ -20,6 +20,8 @@ _(These things are totally assorted and are the most ephemeral. I mostly put thi
 - The principle that to create good products you must imagine what you yourself want that does not yet exist.
 - From my Sam Harris book review: "The recommendation is dead, and we have killed it"
 - Me, below, in "How I Am to Work" section: "Also I should record my chosen productivity & archiving tools somewhere on Colwyn.net."
+- The software industry does not renew its SSL certs on time: bystander effect at scale
+- FOMO re social media is insidious, because its use causes you to miss out on many things that are rarer and more novel!
 
 ## How I Am to Work
 
