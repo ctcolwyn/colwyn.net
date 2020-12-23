@@ -108,6 +108,21 @@ Intelligent articulation of the (apparent) most defensible form of moral realism
 
 Harris further argues that such concern with well-being can be thought of objectively, because, for one, well-being can mostly be measured materially and almost all humans naturally possess a concern for others. Thus he crosses the [is-ought gap](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem). I believe Harris fails to provide rigorous justification for this view, although I agree with him on a pragmatic level that substantially all human value-models can probably reduce to the well-being of conscious creatures. The prose of the book is precise but forgettable, and I could take or leave this book.
 
+### _Deep Work_, Cal Newport (2016)
+Deep Work is a personal productivity book which espouses various habits and perspectives on work which are geared toward using time more efficiently and with less distractions. Here, Cal Newport uses "deep" and "shallow" work to describe the nature of the work more than one's mindset about it (in contrast to the trite "flow state" anecdotes that often plague books like this). I honestly thought I enjoyed this book more until I reviewed my annotations at the end and determined that nearly all of them were passages where the author quotes someone else.
+
+I think the advice in this book is pointed and useful—Newport offers a valid counterbalance to social media/FOMO/millennial marketing/&c. in no uncertain terms:
+
+>[...] we should not be surprised that deep work struggles to compete against the shiny thrum of tweets, likes, tagged photos, walls, posts, and all the other behaviors that we’re now taught are necessary for no other reason than that they exist.
+
+And he profoundly taunts organizations which ~~encourage~~ force their employees to tweet to the detriment of their productivity like (allegedly) the New York Times. I already abhor social media, so I didn't benefit from this section and skipped the second half. But Newport also provides some useful tips to stop productive people from becoming imbalanced and going insane, some of which hits very well in COVID-related remote-work-quarantine:
+
+>Another key commitment for succeeding with this strategy is to support your commitment to shutting down with a strict shutdown ritual that you use at the end of the workday to maximize the probability that you succeed. In more detail, this ritual should ensure that every incomplete task, goal, or project has been reviewed and that for each you have confirmed that either (1) you have a plan you trust for its completion, or (2) it’s captured in a place where it will be revisited when the time is right. The process should be an algorithm: a series of steps you always conduct, one after another. When you’re done, have a set phrase you say that indicates completion (to end my own ritual, I say, “Shutdown complete”).
+
+The above is coupled with good advice about ending your workday by 5:30 all the time, no matter what, so you are not tempted to increase your working hours to become more productive rather than learn real productivity techniques. There is truth to this.
+
+In general Newport offers a useful read that is likely quite useful to mid-career knowledge workers who have decent degrees of control over their own lives. He offers a motivating read that encourages you to realize how much productivity techniques matter, and in that sense the vignettes he paints do a lot of leg work.
+
 ### _The Power of Now_, Eckhart Tolle (1997)
 Here I must distinguish between books impressive in their time versus today. In my judgment, Tolle wrote an impressive proto-foray into mindfulness before western vocabulary about these largely-eastern ideas was well-developed. Are we to take Tolle at face value when he explains he had a Buddha-esque enlightenment revelation at random in a park somewhere? Well, I'd be skeptical, but Tolle has walked the walk for much of his life since.
 
