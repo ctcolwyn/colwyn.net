@@ -103,6 +103,27 @@ I have trouble fully believing the book, in part because Snowden has a strong in
 
 With that grain of salt sown, I otherwise recommend the book. With the benefit of time in exile, Snowden has become an outspoken privacy advocate and has had time to reflect on his decisions in 2013. His decisions are fascinating, and it doesn't really matter all that much which details are false; the overarching story is obviously true and tremendously interesting.
 
+### _The Victorian Internet_, Tom Standage (1998)
+The latest in a series of books I've recently read to understand modern history through technology, _The Victorian Internet_ proves satisfying. The book details the history of the telegraph, from original optical versions deployed in France, to the first transatlantic telegraph cable, to the downfall of the entire network in the wake of the telephone.
+
+The book nods to the culture surrounding the telegraph, which was such a meritocracy that it feels much like software engineering does today:
+
+<div class="epigraph">
+<p>Once received at the nearest telegraph office, the message was transcribed on a paper slip and taken on foot by a messenger boy directly to the recipient. A reply, if one was given, would then be taken back to the office; some telegraph companies offered special rates for a message plus a prepaid reply. Young men were eager to enter the business as messengers, since it was often a stepping-stone to better things. One of the duties of messenger boys was to sweep out the operating room in the mornings, and this provided an opportunity to tinker on the apparatus and learn the telegrapher's craft. Thomas Edison and steel magnate and philanthropist Andrew Carnegie both started out as telegraph messenger boys. "A messenger boy in those days had many pleasures," wrote Carnegie in his autobiography, which includes rather rose-tinted reminiscences of the life of a messenger boy in the 1850s.</p>
+<p>Tom Standage, <i>The Victorian Internet</i></p>
+</div>
+
+What a time to be alive! I imagine getting paid well to do an interesting, precise job in a community of like-minded travelers, ciphers and communicators would've made me feel just as software engineering does today, and I have no doubt, if I were alive then, I would've rushed to my local telegraph office on the first birthday on which I was eligible to work in my town.
+
+The book offers analogies between the cultural consciousness around the telegraph and the same around the internet at time of publication. (Adorably quaint, I might add, for this book to mention that email was "plagued by occasional blackouts and failures" which was unheard of now but par for the course in 1998.) The two clearest analogies drawn are the extent to which the rapid exchange of information transformed and connected society (an effect only furthered, not initiated, by the modern internet), and the optimism surrounding it. From this book:
+
+<div class="epigraph">
+<p>Echoing the sentiments expressed on the completion of the 1858 [transatlantic telegraph] cable, a toast proposed by Edward Thornton, the British ambassador, emphasized the peacemaking potential of the telegraph. "What can be more likely to effect [peace] than a constant and complete intercourse between all nations and individuals in the world?" he asked. "Steam [power] was the first olive branch offered to us by science. Then came a still more effective olive branch—this wonderful electric telegraph, which enables any man who happens to be within reach of a wire to communicate instantaneously with his fellow men all over the world." And another toast was to "the telegraph wire, the nerve of international life, transmitting knowledge of events, removing causes of misunderstanding, and promoting peace and harmony throughout the world."</p>
+<p>Tom Standage, <i>The Victorian Internet</i></p>
+</div>
+
+Sounds a lot like Zuckerberg talked about Facebook in 2007! The book is not perfect, as it was written too early to anticipate social media and thus comes off as naive about the consequences of the modern internet, at one point asserting that it was the telegraph generation, not the internet one, which claims the greatest disruption to the pre-modern ways of life, a point on which I sternly disagree; nonetheless I absolutely esteem this book highly as part of any study of modern history.
+
 ### _Elon Musk_, Ashlee Vance (2015)
 A challenging read that likely read better in 2015; Musk is portrayed as eccentric, but by halfway through a long-form biography of him I adjusted to his idiosyncrasies so much that I barely noticed. The way he is quoted is hard to map onto the way he speaks in real life. At the time, SpaceX had not yet shown the now-unambiguously impressive reusability of the Falcon 9 rocket, and Tesla hadn't yet released the Model 3. It was a different world and Musk was much less well-known than he is today.
 
