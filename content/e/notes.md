@@ -16,6 +16,7 @@ tags:
 
 _(These things are totally assorted and are the most ephemeral. I mostly put things here when they have lived a long enough life in my offline queue to qualify as persistent thoughts despite me not knowing where to put them.)_
 
+- I can think of nothing more eternal than Facebook.
 - "Being foxed" once meant "being drunk"
 - The principle that to create good products you must imagine what you yourself want that does not yet exist.
 - From my Sam Harris book review: "The recommendation is dead, and we have killed it"
