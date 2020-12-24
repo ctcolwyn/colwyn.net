@@ -16,13 +16,13 @@ tags:
 
 _(These things are totally assorted and are the most ephemeral. I mostly put things here when they have lived a long enough life in my offline queue to qualify as persistent thoughts despite me not knowing where to put them.)_
 
-- I can think of nothing more eternal than Facebook.
+- I can think of nothing more eternal than Facebook. (Victorian Internet—overestimating the immediate importance of one's generation—read from the final chapter's end, and epilogue, on this arrogance).
 - "Being foxed" once meant "being drunk"
 - The principle that to create good products you must imagine what you yourself want that does not yet exist.
 - From my Sam Harris book review: "The recommendation is dead, and we have killed it"
 - Me, below, in "How I Am to Work" section: "Also I should record my chosen productivity & archiving tools somewhere on Colwyn.net."
 - The software industry does not renew its SSL certs on time: bystander effect at scale
-- FOMO re social media is insidious, because its use causes you to miss out on many things that are rarer and more novel!
+- FOMO re social media is insidious, because its use causes you to miss out on many things that are rarer and more novel! Additionally, there is such an abundance of content all the time that any FOMO is either overpowering & crushing or intellectually inconsistent.
 
 ## How I Am to Work
 
