@@ -23,6 +23,8 @@ _(These things are totally assorted and are the most ephemeral. I mostly put thi
 - Me, below, in "How I Am to Work" section: "Also I should record my chosen productivity & archiving tools somewhere on Colwyn.net."
 - The software industry does not renew its SSL certs on time: bystander effect at scale
 - FOMO re social media is insidious, because its use causes you to miss out on many things that are rarer and more novel! Additionally, there is such an abundance of content all the time that any FOMO is either overpowering & crushing or intellectually inconsistent.
+- Begin with the Arnold Bennett quote from How to Live on 24 Hours a Day about novels being excluded from serious reading, and then write a while about why novels are such a different sort of reading (which "demands no action" or w/e).
+- On the appreciation of century-old prose
 
 ## How I Am to Work
 
