@@ -30,6 +30,25 @@ I struggle to describe its effect on me as it was something of a meta-effect: on
 
 I see no need for this revision; it is an extremely playful story with meaning and vision.
 
+### _How to Live on 24 Hours a Day_, Arnold Bennett (1908)
+
+<div class="epigraph">
+<p>You wake up in the morning, and lo! your purse is magically filled with twenty-four hours of the unmanufactured tissue of the universe of your life! It is yours. It is the most precious of possessions. A highly singular commodity, showered upon you in a manner as singular as the commodity itself!</p>
+<p>Arnold Bennett, <i>How to Live on 24 Hours a Day</i></p>
+</div>
+
+A stunning, sardonic pamphlet written in the interest of helping people not undervalue their time. The peculiar thing about writing books from a century ago is how applicable they are to the modern sensibility, and this book is no exception. How antiquated the tone, and yet how playful and irreverent the prose! If this text is ancient I wish to be doubly so.
+
+Bennett was 41 when he wrote these words six years prior to the Great War—he writes like the Village Elder of London asking the next generation to be just a little more deliberate with themselves, particularly their evenings, rather than indulging entirely in pursuits that waste the time away—"[t]ennis," he writes, "is so much more urgent than the immortal soul."
+
+This is the closest Bennett gets to religious connotation in his advice. His central thesis is that one ought to form a habit to better themselves for ninety minutes, three working nights a week, and helpfully adds:
+
+>Remember the chance of accidents. Remember human nature. And give yourself, say, from 9 to 11.30 for your task of ninety minutes.
+
+Thus we know he was an invariant pragmatist.
+
+Bennett's tone is typical _humour_ circa the turn of the last century, and the reading list he proposes to the reader is perhaps fifty years older than that. But his taste, and the suitability of his advice for the modern reader, impresses me. This is the sort of book which makes its point smartly and quickly and which I will recommend profusely for the better part of this century.
+
 ### _You're Never Weird on the Internet_, Felicia Day (2015)
 Stunning love letter to the young internet from the early oughts to the supremacy of World of Warcraft. Day paints a detailed picture of what it was like growing up an internet kid, complete with homeschooling, awkward eventual meetups with long-held internet friends, and rather more uniquely in her case: getting a job inside World of Warcraft and turning it into an authentic [miniseries-turned-cult-classic](https://en.wikipedia.org/wiki/The_Guild_(web_series)).
 
